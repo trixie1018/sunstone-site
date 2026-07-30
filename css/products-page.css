@@ -596,10 +596,6 @@ p{
     .upcoming-section > .content-container > h1{
         margin-bottom: 60px;
         margin-top: 80px;
-    } 
-    #navbar-logo-link,
-    #navbar-logo{
-        display: none;
     }
     .navbar-no-need{
         display: none;
@@ -673,5 +669,12 @@ p{
     }
     #contact-us .content-container {
         padding: 0 10%;
+    }
+}
+
+@media screen and (max-width: 400px){
+    #navbar-logo-link,
+    #navbar-logo{
+        display: none;
     }
 }
