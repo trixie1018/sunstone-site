@@ -621,8 +621,8 @@ p{
         height: 150px;
     }
     .square-item > img{
-        width: 180px;
-        height: 180px;
+        width: 150px;
+        height: 150px;
     }
     .square-item > h2{
         width: 150px;
@@ -638,8 +638,8 @@ p{
 
 @media screen and (max-width: 450px){
     .square-item > img{
-        width: 180px;
-        height: 180px;
+        width: 100px;
+        height: 100px;
     }
     .square-item > h2{
         width: 100px;

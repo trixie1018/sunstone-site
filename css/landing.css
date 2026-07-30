@@ -853,6 +853,9 @@ p{
     h1{
         font-size: 40px;
     }
+    #hero-h1{
+        font-size: 28px;
+    }
     h2{
         font-size: 14px;
     }
